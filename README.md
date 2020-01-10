@@ -1,4 +1,4 @@
-# Constructing a K-Nearest Neighbor algorithm from scratch.
+# Constructing a K-Nearest Neighbor Algorithm From Scratch.
 
 In this project (final project for principles of Data Science), I constructed a K-Nearest Neighbor algorithm from scratch using no libraries for the computation. The algorithm was tested on images of digits, and attempting to predict what number is written.
 
